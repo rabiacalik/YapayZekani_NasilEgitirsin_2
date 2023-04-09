@@ -6,11 +6,11 @@ using UnityEngine.SceneManagement;
 public class secim1Kod : MonoBehaviour
 {
     public AudioSource click;
-    public void ›yiGec()
+    public void iyiGec()
     {
         click = GetComponent<AudioSource>();
         click.Play();
-        Invoke("sahneGecisi›yi", 0.5f);
+        Invoke("sahneGecisiiyi", 0.5f);
     }
 
     public void KotuGec()
@@ -19,9 +19,9 @@ public class secim1Kod : MonoBehaviour
         click.Play();
         Invoke("sahneGecisiKotu", 0.5f);
     }
-    public void sahneGecisi›yi()
+    public void sahneGecisiiyi()
     {
-        SceneManager.LoadScene("Level-1›yiSecim");
+        SceneManager.LoadScene("Level-1ÔøΩyiSecim");
     }
     public void sahneGecisiKotu()
     {
