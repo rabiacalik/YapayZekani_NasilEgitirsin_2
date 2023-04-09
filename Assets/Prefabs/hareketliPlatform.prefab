@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6796870764939536746}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: nokta-2
   m_TagString: Untagged
   m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
@@ -40,9 +40,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6796870765029371540}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: hareketliPlatform
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -57,7 +57,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 10.110165, y: -2.4206343, z: -0.04432185}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 6796870765201885482}
   - {fileID: 6796870766145823847}
@@ -78,7 +78,7 @@ GameObject:
   - component: {fileID: 6796870765201885486}
   - component: {fileID: 6796870765201885483}
   - component: {fileID: 6796870765201885481}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: platform
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -215,7 +215,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6796870766145823847}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: nokta-1
   m_TagString: Untagged
   m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
@@ -232,7 +232,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -1.49, y: -0.82936573, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 6796870765029371540}
   m_RootOrder: 1
