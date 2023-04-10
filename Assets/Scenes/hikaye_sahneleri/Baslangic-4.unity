@@ -782,7 +782,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "anla\u015Fma"
+  m_text: Metni oku!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1298,8 +1298,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 3.9315, y: 9.6882}
-  m_SizeDelta: {x: 492.14, y: 189.8236}
+  m_AnchoredPosition: {x: 8.2554, y: -18}
+  m_SizeDelta: {x: 500.7809, y: 193.1564}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1540261832
 MonoBehaviour:
@@ -1321,14 +1321,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Art\u0131k senin de bir yapay zekan olucak. \xC7ok heyecanl\u0131s\u0131n
-    biliyorum ama kuruluma ge\xE7meden \xF6nce anla\u015Fmay\u0131 kabul etmen gerek
-    merak etme genel pres\xF6d\xFCr kurallar\u0131 i\u015Fte maksat adet yerini bulsun
-    \xF6yle de\u011Fil mi.. hehe :)\n\n\nanla\u015Fma metnine                                
-    anla\u015Fmay\u0131 kabul\nbak\t\t\t\t\t           edip devap et"
+  m_text: "ARTIK SENIN DE BIR YAPAY ZEKAN OLACAK. HEYECANLISIN BILIYORUM AMA KURULUMA
+    GECMEDEN ONCE ANLASMAYI KABUL ETMELISIN. MAKSAT ADET YERINI BULSUN.\n\n\n\n\n\n   
+    METNI OKU                                   OKUMADAN DEVAM ET"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 2972f4fc20c74be4caf36cc5be039018, type: 2}
+  m_sharedMaterial: {fileID: -8363957138814540682, guid: 2972f4fc20c74be4caf36cc5be039018, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []

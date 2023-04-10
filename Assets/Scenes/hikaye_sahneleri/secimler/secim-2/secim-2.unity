@@ -1109,8 +1109,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 29, y: 108}
-  m_SizeDelta: {x: 442.23, y: 75.597}
+  m_AnchoredPosition: {x: -2.5575, y: 57.235}
+  m_SizeDelta: {x: 379.11, y: 177.127}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1540261832
 MonoBehaviour:
@@ -1132,11 +1132,13 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Oyun Uygulama Akademisinin \xF6\u011Frencilerinin duyurulardan \nhaberdar
-    olabilmesi i\xE7in onlara \nmesaj atan bir geli\u015Ftirme\n"
+  m_text: '
+
+    OYUN VE UYGULAMA AKADEMISI OGRENCILERININ DUYURULARDAN HABERDAR
+    OLABILMESI ICIN ONLARA MESAJ ATAN BIR GELISTIRME YAP.'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 2972f4fc20c74be4caf36cc5be039018, type: 2}
+  m_sharedMaterial: {fileID: -8363957138814540682, guid: 2972f4fc20c74be4caf36cc5be039018, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1573,12 +1575,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Oyun Uygulama Akademisinin \xF6\u011Frencilerinin duyurulardan \nhaberdar
-    olabilmesi i\xE7in onlara \nmesaj atan bir geli\u015Ftirme ama vir\xFCsl\xFC
-    mesajlar.. :)\n"
+  m_text: OYUN VE UYGULAMA AKADEMISI OGRENCILERINE CESITLI VIRUSLER ICEREN DUYURU
+    MESAJLARI YOLLAYACAK BIR GELISTIRME YAP.
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 2972f4fc20c74be4caf36cc5be039018, type: 2}
+  m_sharedMaterial: {fileID: -8363957138814540682, guid: 2972f4fc20c74be4caf36cc5be039018, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1661,8 +1662,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 3, y: 108}
-  m_SizeDelta: {x: 390.8, y: 75.597}
+  m_AnchoredPosition: {x: 28, y: 13}
+  m_SizeDelta: {x: 390.8, y: 212.7705}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &8185537811316345195
 GameObject:

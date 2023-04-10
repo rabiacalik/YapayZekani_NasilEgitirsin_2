@@ -751,8 +751,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 2972f4fc20c74be4caf36cc5be039018, type: 2}
+  m_sharedMaterial: {fileID: -8363957138814540682, guid: 2972f4fc20c74be4caf36cc5be039018, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1538,11 +1538,11 @@ AudioSource:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4616927283264324136}
-  m_Enabled: 0
+  m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 49fb8987ba8679b4c95037e540c70ba7, type: 3}
-  m_PlayOnAwake: 0
+  m_audioClip: {fileID: 8300000, guid: bdc8e4e1f34247845ba69b7160007ba0, type: 3}
+  m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -1641,14 +1641,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textComponent: {fileID: 603500250}
   lines:
-  - "Yapay zekan\u0131 ustaca geli\u015Ftirdin...Tebrikler"
-  - "Ama sana ilk ba\u015Fta dedi\u011Fim gibi se\xE7imlerin yapay zekan\u0131 etkiler"
-  - "Sana iyi mi yoksa k\xF6t\xFC m\xFC bir yapay zeka geli\u015Ftirdi\u011Fini s\xF6ylemek
-    i\xE7in burday\u0131m "
-  - "Ama sorun \u015Fu ki onu da eklemeyi unutmu\u015Fuz.. "
-  - "Asl\u0131nda bunu hevesini k\u0131rmamak i\xE7in yapt\u0131k... yoksa teknik
-    bir s\u0131k\u0131nt\u0131 de\u011Fil"
-  - Bitti..
+  - YAPAY ZEKANI USTACA GELISTIRDIGIN ICIN TEBRIKLER!!!
+  - AMA SANA ILK BASTA DA DEDIGIM GIBI SECIMLERIN YAPAY ZEKANI ETKILER...
+  - SANA YAPAY ZEKANI IYI MI KOTU MU GELISTIRDIGINI SOYLEMEK ICIN BURADAYIM.
+  - AMA SORUN SU KI ONU DA EKLEMEDIK...
+  - ASLINDA BUNU HEVESINI KIRMAK ICIN YAPTIK... YOKSA TEKNIK BIR AKSAKLIK DEGIL.
+  - BITTI...
   textSpeed: 0.02
   klavye_click: {fileID: 4616927283264324150}
 --- !u!1 &4616927283359475848
@@ -1791,7 +1789,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Geli\u015Ftirici"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 2972f4fc20c74be4caf36cc5be039018, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -1855,7 +1853,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!224 &4616927284391186611

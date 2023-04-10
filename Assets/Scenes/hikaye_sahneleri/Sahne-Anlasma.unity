@@ -1014,7 +1014,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.9125, y: 7.5493}
+  m_AnchoredPosition: {x: 0.62449, y: -48}
   m_SizeDelta: {x: 482.449, y: 194.1015}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1540261832
@@ -1037,11 +1037,16 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Eee.. metni buraya koymay\u0131 unutmusuz.\n\n\xD6nemli bir \u015Fey de\u011Fil
-    zaten sen kuruluma devam et..\nhehe :)"
+  m_text: 'EEE... METNI BURAYA KOYMAYI UNUTMUSUZ.
+
+
+    ONEMLI BIR SEY DEGILDI ZATEN,
+    SEN KURULUMA DEVAM ET
+
+    HEHE:)'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 2972f4fc20c74be4caf36cc5be039018, type: 2}
+  m_sharedMaterial: {fileID: -8363957138814540682, guid: 2972f4fc20c74be4caf36cc5be039018, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
