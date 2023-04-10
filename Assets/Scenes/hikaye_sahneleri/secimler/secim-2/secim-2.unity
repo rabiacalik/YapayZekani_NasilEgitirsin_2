@@ -398,7 +398,7 @@ GameObject:
   - component: {fileID: 549700091}
   - component: {fileID: 549700090}
   - component: {fileID: 549700092}
-  - component: {fileID: 549700093}
+  - component: {fileID: 549700095}
   - component: {fileID: 549700094}
   m_Layer: 5
   m_Name: sekme
@@ -561,19 +561,6 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
---- !u!114 &549700093
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 549700088}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 70814886630021547bdf86276ea737f0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  click: {fileID: 549700092}
 --- !u!82 &549700094
 AudioSource:
   m_ObjectHideFlags: 0
@@ -670,6 +657,19 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &549700095
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 549700088}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 699fd6aeb69ae62459e4144475c4cc6e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  click: {fileID: 549700094}
 --- !u!1 &1270063415
 GameObject:
   m_ObjectHideFlags: 0
@@ -889,8 +889,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 549700093}
-        m_TargetAssemblyTypeName: secim1Kod, Assembly-CSharp
+      - m_Target: {fileID: 549700095}
+        m_TargetAssemblyTypeName: secim2Kod, Assembly-CSharp
         m_MethodName: "\u0130yiGec"
         m_Mode: 1
         m_Arguments:
@@ -1132,9 +1132,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Ya\u015Fl\u0131 hastalar hastane randevusu almakta zorlan\u0131yorlar.
-    Hastan\u0131n bilgilerini randevu sistemine teslim edecek bir geli\u015Ftirme
-    yap."
+  m_text: "Oyun Uygulama Akademisinin \xF6\u011Frencilerinin duyurulardan \nhaberdar
+    olabilmesi i\xE7in onlara \nmesaj atan bir geli\u015Ftirme\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1486,8 +1485,8 @@ GameObject:
   - component: {fileID: 8185537811131617108}
   - component: {fileID: 8185537811131617110}
   - component: {fileID: 8185537811131617111}
-  - component: {fileID: 8185537811131617105}
   - component: {fileID: 8185537811131617112}
+  - component: {fileID: 8185537811131617105}
   m_Layer: 5
   m_Name: sekme
   m_TagString: Untagged
@@ -1542,7 +1541,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 8185537811131617109}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 70814886630021547bdf86276ea737f0, type: 3}
+  m_Script: {fileID: 11500000, guid: 699fd6aeb69ae62459e4144475c4cc6e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   click: {fileID: 8185537811131617105}
@@ -1574,9 +1573,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Baz\u0131 \u015Eirketlere veri sa\u011Flayarak \xE7ok b\xFCy\xFCk paralar
-    kazanabilirsin. Hastane randevu kay\u0131t sistemindeki hasta verilerilerini
-    toplayabilecek bir geli\u015Ftirme yap"
+  m_text: "Oyun Uygulama Akademisinin \xF6\u011Frencilerinin duyurulardan \nhaberdar
+    olabilmesi i\xE7in onlara \nmesaj atan bir geli\u015Ftirme ama vir\xFCsl\xFC
+    mesajlar.. :)\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1863,7 +1862,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 8185537811131617112}
-        m_TargetAssemblyTypeName: secim1Kod, Assembly-CSharp
+        m_TargetAssemblyTypeName: secim2Kod, Assembly-CSharp
         m_MethodName: KotuGec
         m_Mode: 1
         m_Arguments:

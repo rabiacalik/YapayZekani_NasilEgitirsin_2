@@ -33,7 +33,7 @@ public class PlayerMovement : MonoBehaviour
         dirX = Input.GetAxisRaw("Horizontal");
         rb.velocity = new Vector2 (dirX * moveSpeed, rb.velocity.y);
 
-        if (Input.GetKeyDown("space") && IsGrounded() && !isJumping)
+        if (Input.GetKeyDown(KeyCode.W) && IsGrounded() && !isJumping)
         {
             isJumping = true;
             rb.velocity = new Vector2(rb.velocity.x, jumpForce);
