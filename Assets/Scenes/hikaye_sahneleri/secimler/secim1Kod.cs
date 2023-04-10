@@ -21,7 +21,7 @@ public class secim1Kod : MonoBehaviour
     }
     public void sahneGecisiiyi()
     {
-        SceneManager.LoadScene("Level-1�yiSecim");
+        SceneManager.LoadScene("Level-1İyiSecim");
     }
     public void sahneGecisiKotu()
     {

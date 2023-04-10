@@ -44,4 +44,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/hikaye_sahneleri/secimler/secim-2/secim-2.unity
     guid: c12d1fd79b2408a438b25585b7b6e9ec
+  - enabled: 1
+    path: "Assets/Scenes/Leveller/\u0130yi/Level-2\u0130yiSecim.unity"
+    guid: fd9dc7b4e550c2f4792e9976a863f1cb
+  - enabled: 1
+    path: Assets/Scenes/Leveller/Kotu/Level-2KotuSecim.unity
+    guid: 07032b2894a25d64ea94a628e9aebaf9
+  - enabled: 1
+    path: Assets/Scenes/son_menu.unity
+    guid: 48f9fde8680ce564f8d10ad043b47fdd
   m_configObjects: {}

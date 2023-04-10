@@ -20,6 +20,6 @@ public class portal_2 : MonoBehaviour
 
     private void SahneGecisi()
     {
-        SceneManager.LoadScene("secim-1");
+        SceneManager.LoadScene("son_menu");
     }
 }
