@@ -949,6 +949,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4616927284369894310, guid: ecece00e5343d404092107a7e2fd5b19, type: 3}
+      propertyPath: lines.Array.data[0]
+      value: "ikinci e\u011Fitimine ho\u015Fgeldin art\u0131k yeni \xF6zellik ve
+        bilgilerle geli\u015Fti\u011Fini g\xF6rebiliyorum"
+      objectReference: {fileID: 0}
     - target: {fileID: 4616927284393787653, guid: ecece00e5343d404092107a7e2fd5b19, type: 3}
       propertyPath: m_Pivot.x
       value: 0
