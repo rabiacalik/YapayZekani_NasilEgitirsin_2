@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class portal_1 : MonoBehaviour
+public class portal_2 : MonoBehaviour
 {
     private void Start()
     {
@@ -20,6 +20,6 @@ public class portal_1 : MonoBehaviour
 
     private void SahneGecisi()
     {
-        SceneManager.LoadScene("secim-2");
+        SceneManager.LoadScene("son_menu");
     }
 }

@@ -3,14 +3,14 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class secim1Kod : MonoBehaviour
+public class secim2Kod : MonoBehaviour
 {
     public AudioSource click;
-    public void iyiGec()
+    public void ÝyiGec()
     {
         click = GetComponent<AudioSource>();
         click.Play();
-        Invoke("sahneGecisiiyi", 0.5f);
+        Invoke("sahneGecisiÝyi", 0.5f);
     }
 
     public void KotuGec()
@@ -19,12 +19,12 @@ public class secim1Kod : MonoBehaviour
         click.Play();
         Invoke("sahneGecisiKotu", 0.5f);
     }
-    public void sahneGecisiiyi()
+    public void sahneGecisiÝyi()
     {
-        SceneManager.LoadScene("Level-1Ä°yiSecim");
+        SceneManager.LoadScene("Level-2ÝyiSecim");
     }
     public void sahneGecisiKotu()
     {
-        SceneManager.LoadScene("Level-1KotuSecim");
+        SceneManager.LoadScene("Level-2KotuSecim");
     }
 }

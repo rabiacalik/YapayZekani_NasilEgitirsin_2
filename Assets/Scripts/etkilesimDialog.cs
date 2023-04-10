@@ -9,12 +9,15 @@ public class etkilesimDialog : MonoBehaviour
     public TextMeshProUGUI textComponent; //metin bileseni
     public string[] lines; //cizgiler
     public float textSpeed; //yazi hizi
+
     private int index;
     private GameObject panel;
 
     void Start()
     {
+        gameObject.SetActive(true);
         panel = GameObject.Find("etkilesimliPanel");
+        panel.SetActive(false);
         textComponent.text = string.Empty;
     }
 
@@ -22,13 +25,14 @@ public class etkilesimDialog : MonoBehaviour
     {
         if (collision.gameObject.name == "Player")
         {
+            panel.SetActive(true);
             StartDialogue();
         }
     }
-
+    
     void Update()
     {
-        if (Input.GetMouseButtonDown(0))
+        if (Input.GetMouseButtonDown(1))
         {
             if (textComponent.text == lines[index])
             {
