@@ -1037,14 +1037,21 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Tek yapman gereken minik yapay zekana ne yapmas\u0131 gerekti\u011Fini
-    s\xF6ylemek ve onu bilgilerle beslemek. \n\nKendi yapay zekan\u0131 e\u011Fitti\u011Fin
-    bir e\u011Fitim gibi d\xFC\u015F\xFCnebilirsin yada bir yapay zeka akademisi
-    \n\nOnu g\xF6revlerle ve bilgilerle besledik\xE7e b\xFCy\xFCmesine tan\u0131k
-    olacaks\u0131n. B\xFCy\xFCleyici \xF6yle de\u011Fil mi ?"
+  m_text: '
+
+    TEK YAPMAN GEREKEN MINIK YAPAY ZEKANA NE YAPMASI GEREKTIGINI SOYLEMEN
+    VE ONU BILGILERLE BESLEMEN.
+
+
+    BUNU KENDI YAPAY ZEKANI EGITTIGIN BIR EGITIM
+    GIBI DUSUNEBILIRSIN, YA DA BIR YAPAY ZEKA AKADEMISI...
+
+
+    ONU GOREVLERLE VE
+    BILGILERLE BESLEDIKCE BUYUMESINE TANIK OLACAKSIN. BUYULEYICI DEGIL MI?'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 2972f4fc20c74be4caf36cc5be039018, type: 2}
+  m_sharedMaterial: {fileID: -8363957138814540682, guid: 2972f4fc20c74be4caf36cc5be039018, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []

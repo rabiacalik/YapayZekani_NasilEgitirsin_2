@@ -410,104 +410,6 @@ Transform:
   m_Father: {fileID: 1895870133}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &183385665
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 240898525}
-    m_Modifications:
-    - target: {fileID: 1711396921, guid: 4dda7151b78eeb541a862980f2bac484, type: 3}
-      propertyPath: noktalar.Array.size
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 1711396921, guid: 4dda7151b78eeb541a862980f2bac484, type: 3}
-      propertyPath: noktalar.Array.data[0]
-      value: 
-      objectReference: {fileID: 1709624551}
-    - target: {fileID: 1711396921, guid: 4dda7151b78eeb541a862980f2bac484, type: 3}
-      propertyPath: noktalar.Array.data[1]
-      value: 
-      objectReference: {fileID: 1220397399}
-    - target: {fileID: 1711396921, guid: 4dda7151b78eeb541a862980f2bac484, type: 3}
-      propertyPath: noktalar.Array.data[2]
-      value: 
-      objectReference: {fileID: 1552883017}
-    - target: {fileID: 1711396921, guid: 4dda7151b78eeb541a862980f2bac484, type: 3}
-      propertyPath: noktalar.Array.data[3]
-      value: 
-      objectReference: {fileID: 983470084}
-    - target: {fileID: 1711396921, guid: 4dda7151b78eeb541a862980f2bac484, type: 3}
-      propertyPath: noktalar.Array.data[4]
-      value: 
-      objectReference: {fileID: 834195827}
-    - target: {fileID: 1711396921, guid: 4dda7151b78eeb541a862980f2bac484, type: 3}
-      propertyPath: noktalar.Array.data[5]
-      value: 
-      objectReference: {fileID: 2064297551}
-    - target: {fileID: 8843503092067566640, guid: 4dda7151b78eeb541a862980f2bac484, type: 3}
-      propertyPath: m_RootOrder
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 8843503092067566640, guid: 4dda7151b78eeb541a862980f2bac484, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.3
-      objectReference: {fileID: 0}
-    - target: {fileID: 8843503092067566640, guid: 4dda7151b78eeb541a862980f2bac484, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.3
-      objectReference: {fileID: 0}
-    - target: {fileID: 8843503092067566640, guid: 4dda7151b78eeb541a862980f2bac484, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 23.7
-      objectReference: {fileID: 0}
-    - target: {fileID: 8843503092067566640, guid: 4dda7151b78eeb541a862980f2bac484, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 1.56
-      objectReference: {fileID: 0}
-    - target: {fileID: 8843503092067566640, guid: 4dda7151b78eeb541a862980f2bac484, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8843503092067566640, guid: 4dda7151b78eeb541a862980f2bac484, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8843503092067566640, guid: 4dda7151b78eeb541a862980f2bac484, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8843503092067566640, guid: 4dda7151b78eeb541a862980f2bac484, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8843503092067566640, guid: 4dda7151b78eeb541a862980f2bac484, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8843503092067566640, guid: 4dda7151b78eeb541a862980f2bac484, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8843503092067566640, guid: 4dda7151b78eeb541a862980f2bac484, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8843503092067566640, guid: 4dda7151b78eeb541a862980f2bac484, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8843503092067566646, guid: 4dda7151b78eeb541a862980f2bac484, type: 3}
-      propertyPath: m_Name
-      value: bug (3)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 4dda7151b78eeb541a862980f2bac484, type: 3}
---- !u!4 &183385666 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 8843503092067566640, guid: 4dda7151b78eeb541a862980f2bac484, type: 3}
-  m_PrefabInstance: {fileID: 183385665}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &240898524
 GameObject:
   m_ObjectHideFlags: 0
@@ -539,7 +441,6 @@ Transform:
   - {fileID: 495348445}
   - {fileID: 1440080521}
   - {fileID: 2137418975}
-  - {fileID: 183385666}
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -949,10 +850,29 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4616927283278035235, guid: ecece00e5343d404092107a7e2fd5b19, type: 3}
+      propertyPath: m_text
+      value: GELISTIRICI
+      objectReference: {fileID: 0}
+    - target: {fileID: 4616927283278035235, guid: ecece00e5343d404092107a7e2fd5b19, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 2972f4fc20c74be4caf36cc5be039018, type: 2}
+    - target: {fileID: 4616927283278035235, guid: ecece00e5343d404092107a7e2fd5b19, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: -8363957138814540682, guid: 2972f4fc20c74be4caf36cc5be039018, type: 2}
     - target: {fileID: 4616927284369894310, guid: ecece00e5343d404092107a7e2fd5b19, type: 3}
       propertyPath: lines.Array.data[0]
-      value: "ikinci e\u011Fitimine ho\u015Fgeldin art\u0131k yeni \xF6zellik ve
-        bilgilerle geli\u015Fti\u011Fini g\xF6rebiliyorum"
+      value: IKINCI EGITIMINE HOS GELDIN. ARTIK YENI BILGILERLE GELISTIGINI GOREBILIYORUM.
+      objectReference: {fileID: 0}
+    - target: {fileID: 4616927284369894310, guid: ecece00e5343d404092107a7e2fd5b19, type: 3}
+      propertyPath: lines.Array.data[1]
+      value: GEREKLI OLAN DOSYALAR ELINDE, DOSYALARI HEDEF KLASORE TASIMAN GEREKLI.
+      objectReference: {fileID: 0}
+    - target: {fileID: 4616927284369894310, guid: ecece00e5343d404092107a7e2fd5b19, type: 3}
+      propertyPath: lines.Array.data[2]
+      value: BASARILAR KUCUK YAPAY ZEKA.
       objectReference: {fileID: 0}
     - target: {fileID: 4616927284393787653, guid: ecece00e5343d404092107a7e2fd5b19, type: 3}
       propertyPath: m_Pivot.x
@@ -1042,6 +962,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Canvas
       objectReference: {fileID: 0}
+    - target: {fileID: 4616927285035419994, guid: ecece00e5343d404092107a7e2fd5b19, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 2972f4fc20c74be4caf36cc5be039018, type: 2}
+    - target: {fileID: 4616927285035419994, guid: ecece00e5343d404092107a7e2fd5b19, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: -8363957138814540682, guid: 2972f4fc20c74be4caf36cc5be039018, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ecece00e5343d404092107a7e2fd5b19, type: 3}
 --- !u!1001 &495348444
@@ -46748,7 +46676,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 6.5
+  orthographic size: 8
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -47437,6 +47365,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5124718401281667007}
     m_Modifications:
+    - target: {fileID: 2529189993608128358, guid: aa7a30034904c36439a1412330398642, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 2972f4fc20c74be4caf36cc5be039018, type: 2}
+    - target: {fileID: 2529189993608128358, guid: aa7a30034904c36439a1412330398642, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: -8363957138814540682, guid: 2972f4fc20c74be4caf36cc5be039018, type: 2}
     - target: {fileID: 2529189994344959064, guid: aa7a30034904c36439a1412330398642, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -48120,6 +48056,63 @@ MonoBehaviour:
   kapiSprite: {fileID: 21300000, guid: 882593f67fbb5dd4ab81635e2d20dc8d, type: 3}
   newSprite: {fileID: 21300000, guid: 47c52c20e96c90b40bfe21974a368496, type: 3}
   oldSprite: {fileID: 21300000, guid: d97a16322d970ba49a9fc3eb195f3db4, type: 3}
+--- !u!1001 &2118737007
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1407399989285382414, guid: abcf85177dca47d4e818eed3090c96ed, type: 3}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 1407399989285382414, guid: abcf85177dca47d4e818eed3090c96ed, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 588.3371
+      objectReference: {fileID: 0}
+    - target: {fileID: 1407399989285382414, guid: abcf85177dca47d4e818eed3090c96ed, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 273.12186
+      objectReference: {fileID: 0}
+    - target: {fileID: 1407399989285382414, guid: abcf85177dca47d4e818eed3090c96ed, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.1137288
+      objectReference: {fileID: 0}
+    - target: {fileID: 1407399989285382414, guid: abcf85177dca47d4e818eed3090c96ed, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1407399989285382414, guid: abcf85177dca47d4e818eed3090c96ed, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1407399989285382414, guid: abcf85177dca47d4e818eed3090c96ed, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1407399989285382414, guid: abcf85177dca47d4e818eed3090c96ed, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1407399989285382414, guid: abcf85177dca47d4e818eed3090c96ed, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1407399989285382414, guid: abcf85177dca47d4e818eed3090c96ed, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1407399989285382414, guid: abcf85177dca47d4e818eed3090c96ed, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7949224726191667018, guid: abcf85177dca47d4e818eed3090c96ed, type: 3}
+      propertyPath: m_Name
+      value: assound
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: abcf85177dca47d4e818eed3090c96ed, type: 3}
 --- !u!1 &2123458112
 GameObject:
   m_ObjectHideFlags: 0
@@ -48877,11 +48870,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textComponent: {fileID: 1423969389}
   lines:
-  - "\u015Furadaki butonu g\xF6r\xFCyormusun ona basarak duvar\u0131 k\u0131rabilirsin                                    
-    ( \"sa\u011F t\u0131k\" ile mesaj\u0131 ge\xE7ebilirsin)"
-  - "( \"sol t\u0131k\" dan \"sa\u011F t\u0131k\" a niye ge\xE7tik diye sorgulayabilirsin..
-    ama \xF6yle olmas\u0131 gerekti bir \u015Feyler ters gitti\u011Finden de\u011Fil
-    :)"
+  - ASAGIDAKI BUTONU KULLANARAK TAS KAPIYI KIRABILIRSIN.
+  - '"SAG TIK" ILE DEVAM EDEBILIRSIN.'
   textSpeed: 0.01
 --- !u!1 &8496987575749244483
 GameObject:
@@ -48967,7 +48957,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -1.1557732, y: 1.0253377}
+  m_Offset: {x: 2.9353905, y: 1.0253377}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -48978,7 +48968,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 13.670799, y: 8.349988}
+  m_Size: {x: 24.137794, y: 8.349988}
   m_EdgeRadius: 0
 --- !u!4 &8496987575749244495
 Transform:

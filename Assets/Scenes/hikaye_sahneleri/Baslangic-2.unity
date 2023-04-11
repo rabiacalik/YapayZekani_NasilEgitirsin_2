@@ -1037,13 +1037,22 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Peki sana kendi yapay zekan\u0131 geli\u015Ftirebilirsin desem.\nEvet
-    kula\u011Fa ho\u015F geliyor fark\u0131nday\u0131m ama uzun kod sat\u0131rlar\u0131
-    g\xF6z\xFCn\xFCm\xFC korkutuyor merek etme art\u0131k bunlar\u0131n hi\xE7birine
-    gerek yok. \xC7\xFCnk\xFC bizim sayemizde kendi yapay zekan\u0131 kolayca geli\u015Ftirebilirsin."
+  m_text: '
+
+
+    PEKI SANA KENDI YAPAY ZEKANI GELISTIREBILIRSIN DESEM?
+
+
+    EVET
+    KULAGA HOS GELIYOR AMA UZUN KOD SATIRLARI GOZUNU KORKUTUYOR. MERAK ETME ARTIK
+    BUNLARIN HICBIRINE GEREK YOK.
+
+
+    CUNKU BIZIMLE BERABER KENDI YAPAY ZEKANI
+    KOLAYCA GELISTIREBILIRSIN.'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 2972f4fc20c74be4caf36cc5be039018, type: 2}
+  m_sharedMaterial: {fileID: -8363957138814540682, guid: 2972f4fc20c74be4caf36cc5be039018, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
