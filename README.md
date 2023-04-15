@@ -1,5 +1,5 @@
 # Yapay zekanı nasıl eğitirsin | Game Jam
-google oyun uygulama akademisi için 72 saatte geliştirdiğimiz oyunumuz 
+google oyun uygulama akademisinin 2022 bursiyerleri için düzenlediği game jam de 72 saatte geliştirdiğimiz oyunumuz 
 oyunun sayfasına bu linkten ulaşabilirsiniz : [yapay zekanı nasıl eğitirsin](https://rabirey.itch.io/yapay-zekan-nasil-egitirsin)
 
 oyun içinden bazı görseller :
